@@ -15,7 +15,7 @@ This project is a **Turkic mythology-inspired blockchain network**. It follows t
 - Transactions are conducted by legendary Turkic figures such as **Ülgen, Erlik Han, Kayra Han, Asena, and Börteçine**.
 - Example: **Ülgen sends 100 Tamag to Erlik Han**, and this transaction is recorded on the blockchain.
 
-### ⛏ Mining (Proof of Work)bir
+### ⛏ Mining (Proof of Work)
 
 ### 🌐 Decentralized Network
 
