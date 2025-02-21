@@ -1,4 +1,4 @@
-# Turkic Mythology-Themed Blockchain
+# Turkic Mythology-Themed Blockchain (Simple Demo)
 
 This project is a **Turkic mythology-inspired blockchain network**. It follows the fundamental principles of blockchain while incorporating mythological figures and a unique cryptocurrency called **Tamag**.
 
